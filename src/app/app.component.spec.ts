@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date: 02/08/2022
 ; Modified By: Keith Hall
-; Description: App component spec.ts for in-n-out-booksp3.
+; Description: App component spec.ts for in-n-out-books.
 ;===========================================
 */
 import { TestBed } from '@angular/core/testing';

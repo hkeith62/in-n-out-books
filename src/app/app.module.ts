@@ -1,9 +1,9 @@
 /**
  * Title: app.module.ts
  * Author: Professor Krasso
- * Date: 02/08/2022
+ * Date: 02/27/2022
  * Modified by: Keith Hall
- * Description: App module for for in-n-out-booksp3.
+ * Description: App module for for in-n-out-books.
  */
 
  import { BrowserModule } from '@angular/platform-browser';

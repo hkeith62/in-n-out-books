@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date: 02/04/2022
 ; Modified By: Keith Hall
-; Description: Component.spec.ts file of the book=list component.
+; Description: Component.spec.ts file of the book-list component.
 ;===========================================
 */
 import { ComponentFixture, TestBed } from '@angular/core/testing';
