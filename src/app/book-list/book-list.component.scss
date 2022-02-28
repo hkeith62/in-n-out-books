@@ -1,0 +1,34 @@
+ /*
+============================================
+; Title: book-list.component.scss
+; Author: Professor Krasso
+; Date: 02/08/2022
+; Modified By: Keith Hall
+; Description: Book-list component. scss file.
+;===========================================
+*/
+.grid-container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: auto auto auto;
+  padding: 25px;
+}
+
+.grid-container__item {
+  padding: 20px;
+  font-size: 30px;
+}
+
+.grid-container__ahref {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.grid-container__ahref:hover {
+  text-decoration: none;
+}
+
+.spinner {
+  margin-top: 2%;
+  margin-left: 45%;
+}
